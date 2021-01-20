@@ -20,7 +20,7 @@ import javax.ws.rs.core.MediaType;
  * @author Visit.R
  */
 @Path("myresource")
-public class MyResourceZzV3333 {
+public class MyResourceZzV44444 {
 
     @POST
     @Path("/{param}")
